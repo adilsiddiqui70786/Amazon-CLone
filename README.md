@@ -18,6 +18,7 @@ Contributions to this project are welcome. If you would like to contribute, plea
 ## Deployment :
 The website can be accessed by cloning the repository and opening the index.html file in a web browser.
 
+
 <br>
 
 ## Time taken to finish this project
@@ -27,4 +28,4 @@ The website can be accessed by cloning the repository and opening the index.html
 This repository contains the frontend code for an Amazon clone website developed using HTML and CSS. This project focuses on the visual design and layout of the popular e-commerce platform.
 
 #### Screenshot
-
+![SS](https://github.com/adilsiddiqui70786/Amazon-CLone/assets/117959085/92989099-7197-4d58-9d56-1135f3f3b9e5)

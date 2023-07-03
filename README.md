@@ -24,8 +24,12 @@ The website can be accessed by cloning the repository and opening the index.html
 ## Time taken to finish this project
 - 4 hours to Complete it.
 
+<br>
+
 ## Amazon Clone Website (Frontend HTML & CSS)
 This repository contains the frontend code for an Amazon clone website developed using HTML and CSS. This project focuses on the visual design and layout of the popular e-commerce platform.
+
+<br>
 
 # Amazon's clone looks like this
 

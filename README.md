@@ -5,7 +5,7 @@
 ## Key Features :
 - Responsive Design
 - Consistent Styling and Layout throughout the Website
-- Looks Rea
+- Looks Real
 
 <br>
 
